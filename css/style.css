@@ -204,12 +204,14 @@ ul {
     display: flex;
     justify-content: space-around;
     padding-top: 50px;
+    align-content: center;
 }
 
 .chat-text {
     /* font-size: 24px; */
     color: #fff;
     margin: 0;
+    padding-top: 5px;
 }
 
 .btn {
@@ -263,7 +265,7 @@ ul {
 /* SECTION ABOUT US 2 Began */
 
 .s7 {
-    padding-top: 30px;
+    /* padding-top: 30px; */
 }
 
 .about-us {
