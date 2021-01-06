@@ -203,12 +203,13 @@ ul {
 .chat {
     display: flex;
     justify-content: space-around;
-    padding-top: 40px;
+    padding-top: 50px;
 }
 
 .chat-text {
     /* font-size: 24px; */
     color: #fff;
+    margin: 0;
 }
 
 .btn {
